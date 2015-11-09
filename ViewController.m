@@ -15,10 +15,12 @@
 
 @implementation ViewController
 
-- (void)viewDidLoad {
+- (void)viewDidLoad
+{
     [super viewDidLoad];
     [self configButton];
 }
+
 
 - (void)configButton
 {
@@ -58,9 +60,7 @@
         NSLog(@"添加标签 selected");
     }];
 
-    
     [menuView show];
-
 }
 
 - (void)didReceiveMemoryWarning {
