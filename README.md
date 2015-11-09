@@ -25,6 +25,8 @@ A pop menu with aniamtion
 ``` 
     [menuView show];
 ``` 
+# Display Demo
+![](https://github.com/mrxiruo/XRPopMenuDemo/raw/master/popDemo.gif)  
 
 # Tips
 觉得帮助你了的话, 可以点击上面右侧的 `Star` 鼓励我噢，变成 `Unstar` 就可以了！
