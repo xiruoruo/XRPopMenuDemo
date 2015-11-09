@@ -9,7 +9,7 @@
     XRPopMenuView *menuView = [[XRPopMenuView alloc] init];
 ``` 
 
-33. Add Buttons
+3.Add buttons
 ``` 
     [menuView addMenuItemWithTitle:@"创建标签" andIcon:[UIImage imageNamed:@"editButton"] andSelectedBlock:^{
         NSLog(@"创建标签 selected");
