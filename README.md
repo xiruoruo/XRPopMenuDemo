@@ -25,5 +25,9 @@ A pop menu with aniamtion
 ``` 
     [menuView show];
 ``` 
+
+# Tips
+觉得帮助你了的话, 可以点击上面右侧的 Star 鼓励我噢，变成 Unstar 就可以了！
+
 # License
 本项目采用 MIT license 开源，你可以利用采用该协议的代码做任何事情，只需要继续继承 MIT 协议即可。
