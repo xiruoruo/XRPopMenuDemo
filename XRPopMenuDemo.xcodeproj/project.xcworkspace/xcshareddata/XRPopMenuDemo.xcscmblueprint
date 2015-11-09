@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "E5B9F9CC0D0737009B79AB84ABEF01A16B4C5D94",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "E5B9F9CC0D0737009B79AB84ABEF01A16B4C5D94" : 0,
+    "C4DEC051762E54B0689AD50D94179BD1DC498F23" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "FF0201FD-03E8-48F3-A373-5CC87F6000B1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "E5B9F9CC0D0737009B79AB84ABEF01A16B4C5D94" : "XRPopMenuDemo\/",
+    "C4DEC051762E54B0689AD50D94179BD1DC498F23" : "XRPopMenuDemo\/XRPopMenuDemo\/XRPopMenuDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "XRPopMenuDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "XRPopMenuDemo\/XRPopMenuDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrxiruo\/XRPopMenuDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C4DEC051762E54B0689AD50D94179BD1DC498F23"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mrxiruo\/XRPopMenuDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E5B9F9CC0D0737009B79AB84ABEF01A16B4C5D94"
+    }
+  ]
+}
