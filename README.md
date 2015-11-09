@@ -29,7 +29,7 @@ A pop menu with aniamtion
 ![](https://github.com/mrxiruo/XRPopMenuDemo/raw/master/XRPopMenuDemo/popDemo.gif)  
 
 # Tips
-觉得帮助你了的话, 可以点击上面右侧的 `Star` 鼓励我噢，变成 `Unstar` 就可以了！
+觉得帮助你了的话, 可以点击上面右侧的 `Star` 鼓励我噢，变成 `Unstar` 就可以了！有问题欢迎在[issue](https://github.com/mrxiruo/XRPopMenuDemo/issues)中提出.
 
 # License
 本项目采用 [MIT license](http://opensource.org/licenses/MIT) 开源，你可以利用采用该协议的代码做任何事情，只需要继续继承 MIT 协议即可。
