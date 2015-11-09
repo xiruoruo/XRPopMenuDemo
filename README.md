@@ -4,8 +4,10 @@
 # Usage
 1. import XRPopMenuView.h
 2. Init the menu
+###
     XRPopMenuView *menuView = [[XRPopMenuView alloc] init];
 3. Add Buttons
+###
     [menuView addMenuItemWithTitle:@"创建标签" andIcon:[UIImage imageNamed:@"editButton"] andSelectedBlock:^{
     }];
     [menuView addMenuItemWithTitle:@"添加标签" andIcon:[UIImage imageNamed:@"markButton"] andSelectedBlock:^{
