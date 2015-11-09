@@ -1,5 +1,5 @@
 # XRPopMenuDemo V1.0
-带动画效果的简易弹出菜单demo, 多按钮自适应\n
+带动画效果的简易弹出菜单demo, 多按钮自适应<br>
 A pop menu with aniamtion
 
 # Usage
