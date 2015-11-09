@@ -2,15 +2,15 @@
 带动画效果的简易弹出菜单demo, 多按钮自适应
 
 # Usage
-1. import XRPopMenuView.h
+(1). import XRPopMenuView.h
 
-2. Init the menu
+(2). Init the menu
 
 ``` 
     XRPopMenuView *menuView = [[XRPopMenuView alloc] init];
 ``` 
 
-3. Add buttons
+(3). Add buttons
 ``` 
     [menuView addMenuItemWithTitle:@"创建标签" andIcon:[UIImage imageNamed:@"editButton"] andSelectedBlock:^{
         NSLog(@"创建标签 selected");
@@ -20,7 +20,7 @@
     }];
 ``` 
 
-4. Show the menu
+(4). Show the menu
 ``` 
     [menuView show];
 ``` 
